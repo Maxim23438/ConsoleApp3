@@ -19,8 +19,8 @@ namespace ConsoleApp3
                     where n == Index.()                           
                     select n;
             Console.WriteLine(l.Count());
-            
-            
+            var a = 10;
+            var s = 90;
             
         }
         public class Student
